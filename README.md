@@ -109,23 +109,23 @@ https://github.com/brandon-p3/Instrumento_Evaluacion_U3_Mendoza_Amaro_Brandon_Gu
 # Capturas de pantalla de los examenes de NetaCad:
 
 ## Modulo 1
-<img src="https://github.com/user-attachments/assets/ba8aa2d3-2756-4f22-aaea-e63e0f360f66"/>
+<img src="https://github.com/user-attachments/assets/948f6dc7-94ee-4318-a7c9-5080cf15da87"/>
 
 ## Modulo 2
-<img src="https://github.com/user-attachments/assets/948b88e0-c5d8-406b-83ab-c363abac386c"/>
+<img src="https://github.com/user-attachments/assets/a892aba7-a040-4eeb-898c-fe76e933d9a1"/>
 
 ## Modulo 3
-<img src="https://github.com/user-attachments/assets/f23021da-57fd-41ee-8bea-4cb9bcebc0b0"/>
+<img src="https://github.com/user-attachments/assets/4659f7e3-7658-4bbf-a3e7-551648495036"/>
 
 ## Modulo 4
-<img src="https://github.com/user-attachments/assets/9e865d9c-9a2d-40da-b252-d354e13fc1c9"/>
+<img src="https://github.com/user-attachments/assets/c719ecf5-1363-4442-bf6b-08db611c255b"/>
 
 ## Modulo 5
-<img src="https://github.com/user-attachments/assets/86013590-8c15-45c6-8a05-3bf0fa81fa9f"/>
+<img src="https://github.com/user-attachments/assets/116d589a-a98f-4fd8-8a64-52495de5e343"/>
 
 ## Modulo 6
-<img src="https://github.com/user-attachments/assets/16ad81c3-e031-41c8-b23f-ca694f7b2638"/>
+<img src="https://github.com/user-attachments/assets/2138d6d6-902c-4cb3-a2e7-965dc7e83a78"/>
 
 
 ## Examen final
-<img src="https://github.com/user-attachments/assets/d77873d0-9999-4cc7-be51-14f7d784c90d"/>
+<img src="https://github.com/user-attachments/assets/7336cbfe-904d-49bb-ac54-99d4abaa7fd8"/>

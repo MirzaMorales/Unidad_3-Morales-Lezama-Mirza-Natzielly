@@ -83,7 +83,7 @@ La comunicación del usuario con el prototipo se realizará mediante una conexi�
 ![Base de Datos](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_194854915.png)
 
 ## VIDEO EXPLICATIVO DEL FUNCIONAMIENTO 
-https://github.com/ABOK451/Personaje-Navide-o/blob/main/VIDEOS_FUNCIONAMIENTO/VID-20231205-WA0007.mp4
+[https://github.com/ABOK451/Personaje-Navide-o/blob/main/VIDEOS_FUNCIONAMIENTO/VID-20231205-WA0007.mp4](https://drive.google.com/file/d/11MY7aE0-uAsk81xe6eBZlOeHWfH5Ih3B/view?usp=sharing)
 
 ## TIKTOK
 [https://github.com/ABOK451/Personaje-Navide-o/blob/main/VIDEOS_FUNCIONAMIENTO/VID-20231205-WA0007.mp4](https://vm.tiktok.com/ZMk1CkqVS/)
@@ -100,8 +100,8 @@ https://github.com/ABOK451/Personaje-Navide-o/blob/main/VIDEOS_FUNCIONAMIENTO/VI
 </div>
 
 ## LINK CODIGO 
-https://github.com/brandon-p3/Instrumento_Evaluacion_U3_Mendoza_Amaro_Brandon_Gustavo_GDS0641/tree/e06de89bc9803ec0c3f5a43210e0ec5b72716cc7/SnowMan_C%C3%B3digo_Paython
 
+https://github.com/brandon-p3/Instrumento_Evaluacion_U3_Mendoza_Amaro_Brandon_Gustavo_GDS0641/tree/e06de89bc9803ec0c3f5a43210e0ec5b72716cc7/SnowMan_C%C3%B3digo_Paython
 
 # LINK VIDEOS Y EJERCICIOS REALIZADOS EN CLASE
 

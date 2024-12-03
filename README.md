@@ -86,7 +86,7 @@ La comunicación del usuario con el prototipo se realizará mediante una conexi�
 https://github.com/ABOK451/Personaje-Navide-o/blob/main/VIDEOS_FUNCIONAMIENTO/VID-20231205-WA0007.mp4
 
 ## TIKTOK
-https://github.com/ABOK451/Personaje-Navide-o/blob/main/VIDEOS_FUNCIONAMIENTO/VID-20231205-WA0007.mp4
+[https://github.com/ABOK451/Personaje-Navide-o/blob/main/VIDEOS_FUNCIONAMIENTO/VID-20231205-WA0007.mp4](https://vm.tiktok.com/ZMk1CkqVS/)
 
 ## FOTOS DE ELABORACION 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;"> 
